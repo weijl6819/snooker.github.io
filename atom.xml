@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.snooker-w.cn/"/>
-  <updated>2018-11-20T08:21:08.552Z</updated>
+  <updated>2018-11-20T09:23:20.575Z</updated>
   <id>http://www.snooker-w.cn/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://www.snooker-w.cn/2018/11/20/hello/"/>
+    <id>http://www.snooker-w.cn/2018/11/20/hello/</id>
+    <published>2018-11-20T09:23:20.000Z</published>
+    <updated>2018-11-20T09:23:20.575Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>&lt;post name&gt;</title>
